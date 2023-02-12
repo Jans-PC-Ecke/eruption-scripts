@@ -1,2 +1,2 @@
 # eruption-scripts
-erutpion roccat linux rgb scripts, modified by me
+eruption roccat linux rgb scripts, modified by me
